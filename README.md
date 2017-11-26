@@ -6,6 +6,8 @@ MakeMkvActivator is a simple python 3 script that scrapes the MakeMkv forum page
 
 Currently Windows and MacOS are supported. 
 
+This is my first script using Python, so if you find any bugs or have any suggestions on what can be done to make this code better/more efficent please feel free to reach out.
+
 If you enjoy the MakeMkv software, consider purchasing a license to support the developer for future/continued development.
 
 ## Requirements
